@@ -1,0 +1,9 @@
+
+spring:
+  mail:
+    host: smtp.qq.com
+    username: zhaoyuxin97@foxmail.com
+    password: vnkcdosfgsgkcjdh
+  redis:
+    host: localhost
+    port: 6379
